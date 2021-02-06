@@ -1,0 +1,42 @@
+
+.navbar-brand{
+color: "#f0ad4e";
+font-family: cursive;
+font-style: bold;
+font-size: 1.75rem;
+}
+
+.nav-item{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+
+#card-font{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+
+#price{
+font-size: large;
+}
+
+#book-title{
+    font-style: bold;
+    font-size: x-large;  
+}
+
+#search{
+    width:100%;
+}
+
+.about{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.about-para{
+    text-align: justify;
+    margin-top: 60px;
+}
+
